@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Triton Tensor Wave avatar concept">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0A2540" />
+      <stop offset="100%" stop-color="#051425" />
+    </linearGradient>
+    <linearGradient id="wave" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#1090CF" />
+      <stop offset="70%" stop-color="#00D4AA" />
+      <stop offset="100%" stop-color="#67F5D7" />
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#bg)" rx="22" />
+  <g>
+    <path d="M 0,512 L 0,271.36 L 16.00,259.82 L 32.00,247.05 L 48.00,233.88 L 64.00,221.33 L 80.00,210.46 L 96.00,202.36 L 112.00,197.95 L 128.00,197.95 L 144.00,202.75 L 160.00,212.38 L 176.00,226.43 L 192.00,244.12 L 208.00,264.31 L 224.00,285.62 L 240.00,306.53 L 256.00,325.53 L 272.00,341.25 L 288.00,352.57 L 304.00,358.77 L 320.00,359.52 L 336.00,354.98 L 352.00,345.68 L 368.00,332.54 L 384.00,316.73 L 400.00,299.54 L 416.00,282.29 L 432.00,266.19 L 448.00,252.25 L 464.00,241.21 L 480.00,233.50 L 496.00,229.23 L 512.00,228.23 L 512,512 Z" fill="url(#wave)" />
+    <path d="M 0,512 L 0,271.36 L 16.00,259.82 L 32.00,247.05 L 48.00,233.88 L 64.00,221.33 L 80.00,210.46 L 96.00,202.36 L 112.00,197.95 L 128.00,197.95 L 144.00,202.75 L 160.00,212.38 L 176.00,226.43 L 192.00,244.12 L 208.00,264.31 L 224.00,285.62 L 240.00,306.53 L 256.00,325.53 L 272.00,341.25 L 288.00,352.57 L 304.00,358.77 L 320.00,359.52 L 336.00,354.98 L 352.00,345.68 L 368.00,332.54 L 384.00,316.73 L 400.00,299.54 L 416.00,282.29 L 432.00,266.19 L 448.00,252.25 L 464.00,241.21 L 480.00,233.50 L 496.00,229.23 L 512.00,228.23 L 512,512 Z" fill="none" stroke="#67F5D7" stroke-opacity="0.55" stroke-width="2.3"/>
+  </g>
+  <g filter="url(#glow)">
+      <rect x="61.44" y="286.72" width="46.84" height="32.33" rx="2" fill="#1D5D88" fill-opacity="0.15" />
+      <rect x="110.08" y="286.72" width="46.84" height="32.33" rx="2" fill="#1D5D88" fill-opacity="0.33" />
+      <rect x="158.72" y="286.72" width="46.84" height="32.33" rx="2" fill="#1D5D88" fill-opacity="0.52" />
+      <rect x="207.36" y="286.72" width="46.84" height="32.33" rx="2" fill="#1D5D88" fill-opacity="0.70" />
+      <rect x="256.00" y="286.72" width="46.84" height="32.33" rx="2" fill="#1D5D88" fill-opacity="0.15" />
+      <rect x="304.64" y="286.72" width="46.84" height="32.33" rx="2" fill="#1D5D88" fill-opacity="0.33" />
+      <rect x="353.28" y="286.72" width="46.84" height="32.33" rx="2" fill="#1D5D88" fill-opacity="0.52" />
+      <rect x="401.92" y="286.72" width="46.84" height="32.33" rx="2" fill="#1D5D88" fill-opacity="0.70" />
+      <rect x="61.44" y="320.85" width="46.84" height="32.33" rx="2" fill="#1D5D88" fill-opacity="0.33" />
+      <rect x="110.08" y="320.85" width="46.84" height="32.33" rx="2" fill="#1D5D88" fill-opacity="0.52" />
+      <rect x="158.72" y="320.85" width="46.84" height="32.33" rx="2" fill="#1D5D88" fill-opacity="0.70" />
+      <rect x="207.36" y="320.85" width="46.84" height="32.33" rx="2" fill="#1D5D88" fill-opacity="0.15" />
+      <rect x="256.00" y="320.85" width="46.84" height="32.33" rx="2" fill="#1D5D88" fill-opacity="0.33" />
+      <rect x="304.64" y="320.85" width="46.84" height="32.33" rx="2" fill="#1D5D88" fill-opacity="0.52" />
+      <rect x="353.28" y="320.85" width="46.84" height="32.33" rx="2" fill="#1D5D88" fill-opacity="0.70" />
+      <rect x="401.92" y="320.85" width="46.84" height="32.33" rx="2" fill="#1D5D88" fill-opacity="0.15" />
+      <rect x="61.44" y="354.99" width="46.84" height="32.33" rx="2" fill="#1D5D88" fill-opacity="0.52" />
+      <rect x="110.08" y="354.99" width="46.84" height="32.33" rx="2" fill="#1D5D88" fill-opacity="0.70" />
+      <rect x="158.72" y="354.99" width="46.84" height="32.33" rx="2" fill="#1D5D88" fill-opacity="0.15" />
+      <rect x="207.36" y="354.99" width="46.84" height="32.33" rx="2" fill="#1D5D88" fill-opacity="0.33" />
+      <rect x="256.00" y="354.99" width="46.84" height="32.33" rx="2" fill="#1D5D88" fill-opacity="0.52" />
+      <rect x="304.64" y="354.99" width="46.84" height="32.33" rx="2" fill="#1D5D88" fill-opacity="0.70" />
+      <rect x="353.28" y="354.99" width="46.84" height="32.33" rx="2" fill="#1D5D88" fill-opacity="0.15" />
+      <rect x="401.92" y="354.99" width="46.84" height="32.33" rx="2" fill="#1D5D88" fill-opacity="0.33" />
+      <rect x="61.44" y="389.12" width="46.84" height="32.33" rx="2" fill="#1D5D88" fill-opacity="0.70" />
+      <rect x="110.08" y="389.12" width="46.84" height="32.33" rx="2" fill="#1D5D88" fill-opacity="0.15" />
+      <rect x="158.72" y="389.12" width="46.84" height="32.33" rx="2" fill="#1D5D88" fill-opacity="0.33" />
+      <rect x="207.36" y="389.12" width="46.84" height="32.33" rx="2" fill="#1D5D88" fill-opacity="0.52" />
+      <rect x="256.00" y="389.12" width="46.84" height="32.33" rx="2" fill="#1D5D88" fill-opacity="0.70" />
+      <rect x="304.64" y="389.12" width="46.84" height="32.33" rx="2" fill="#1D5D88" fill-opacity="0.15" />
+      <rect x="353.28" y="389.12" width="46.84" height="32.33" rx="2" fill="#1D5D88" fill-opacity="0.33" />
+      <rect x="401.92" y="389.12" width="46.84" height="32.33" rx="2" fill="#1D5D88" fill-opacity="0.52" />
+      <rect x="61.44" y="423.25" width="46.84" height="32.33" rx="2" fill="#1D5D88" fill-opacity="0.15" />
+      <rect x="110.08" y="423.25" width="46.84" height="32.33" rx="2" fill="#1D5D88" fill-opacity="0.33" />
+      <rect x="158.72" y="423.25" width="46.84" height="32.33" rx="2" fill="#1D5D88" fill-opacity="0.52" />
+      <rect x="207.36" y="423.25" width="46.84" height="32.33" rx="2" fill="#1D5D88" fill-opacity="0.70" />
+      <rect x="256.00" y="423.25" width="46.84" height="32.33" rx="2" fill="#1D5D88" fill-opacity="0.15" />
+      <rect x="304.64" y="423.25" width="46.84" height="32.33" rx="2" fill="#1D5D88" fill-opacity="0.33" />
+      <rect x="353.28" y="423.25" width="46.84" height="32.33" rx="2" fill="#1D5D88" fill-opacity="0.52" />
+      <rect x="401.92" y="423.25" width="46.84" height="32.33" rx="2" fill="#1D5D88" fill-opacity="0.70" />
+      <rect x="61.44" y="457.39" width="46.84" height="32.33" rx="2" fill="#1D5D88" fill-opacity="0.33" />
+      <rect x="110.08" y="457.39" width="46.84" height="32.33" rx="2" fill="#1D5D88" fill-opacity="0.52" />
+      <rect x="158.72" y="457.39" width="46.84" height="32.33" rx="2" fill="#1D5D88" fill-opacity="0.70" />
+      <rect x="207.36" y="457.39" width="46.84" height="32.33" rx="2" fill="#1D5D88" fill-opacity="0.15" />
+      <rect x="256.00" y="457.39" width="46.84" height="32.33" rx="2" fill="#1D5D88" fill-opacity="0.33" />
+      <rect x="304.64" y="457.39" width="46.84" height="32.33" rx="2" fill="#1D5D88" fill-opacity="0.52" />
+      <rect x="353.28" y="457.39" width="46.84" height="32.33" rx="2" fill="#1D5D88" fill-opacity="0.70" />
+      <rect x="401.92" y="457.39" width="46.84" height="32.33" rx="2" fill="#1D5D88" fill-opacity="0.15" />
+  </g>
+  <g filter="url(#glow)">
+      <rect x="179.20" y="174.08" width="174.08" height="30.72" rx="6" fill="#67F5D7" />
+      <rect x="243.20" y="204.80" width="46.08" height="122.88" rx="6" fill="#67F5D7" />
+  </g>
+</svg>
